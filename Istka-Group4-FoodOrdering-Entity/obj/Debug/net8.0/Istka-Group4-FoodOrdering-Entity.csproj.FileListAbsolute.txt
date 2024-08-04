@@ -1,0 +1,184 @@
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\Mustafa\source\repos\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\dddme\OneDrive\Masaüstü\f\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\dddme\OneDrive\Masaüstü\FOOD ORDERING\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\newFOODPROJE\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\son sayfa\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\rollüson\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\fooddgrup\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering2\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\aaaaaaaaaaaaaaaaaaaaaaaasimge\Istka-Group4-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.AssemblyReference.cache
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\simsi\Desktop\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.AssemblyReference.cache
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\grupsonrar\Istka-Group4-FoodOrdering(ortak)\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.deps.json
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\bin\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.AssemblyReference.cache
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfoInputs.cache
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.AssemblyInfo.cs
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.sourcelink.json
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\refint\Istka-Group4-FoodOrdering-Entity.dll
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\Istka-Group4-FoodOrdering-Entity.pdb
+C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-Entity\obj\Debug\net8.0\ref\Istka-Group4-FoodOrdering-Entity.dll

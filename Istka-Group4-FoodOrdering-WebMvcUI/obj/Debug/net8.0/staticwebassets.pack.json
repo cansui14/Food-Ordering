@@ -1,0 +1,793 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Istka-Group4-FoodOrdering-WebMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Istka-Group4-FoodOrdering-WebMvcUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\images\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\ahtapot.jpg",
+      "PackagePath": "staticwebassets\\images\\ahtapot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\akdenizkokteyl.jpg",
+      "PackagePath": "staticwebassets\\images\\akdenizkokteyl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\asci.jpg",
+      "PackagePath": "staticwebassets\\images\\asci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\b.jpg",
+      "PackagePath": "staticwebassets\\images\\b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\baharatlıballıkokteyl.jpg",
+      "PackagePath": "staticwebassets\\images\\baharatlıballıkokteyl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\bbqburger.jpg",
+      "PackagePath": "staticwebassets\\images\\bbqburger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\burger.jpg",
+      "PackagePath": "staticwebassets\\images\\burger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\cheeseburger.jpg",
+      "PackagePath": "staticwebassets\\images\\cheeseburger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\chickenburger.jpg",
+      "PackagePath": "staticwebassets\\images\\chickenburger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\contact.jpg",
+      "PackagePath": "staticwebassets\\images\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\dessert.jpg",
+      "PackagePath": "staticwebassets\\images\\dessert.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\drink.jpg",
+      "PackagePath": "staticwebassets\\images\\drink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\drink2.jpg",
+      "PackagePath": "staticwebassets\\images\\drink2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\gal1.jpg",
+      "PackagePath": "staticwebassets\\images\\gal1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\gal2.jpg",
+      "PackagePath": "staticwebassets\\images\\gal2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\gal3.jpg",
+      "PackagePath": "staticwebassets\\images\\gal3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\gal4.jpg",
+      "PackagePath": "staticwebassets\\images\\gal4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\gal5.jpg",
+      "PackagePath": "staticwebassets\\images\\gal5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\gal6.jpg",
+      "PackagePath": "staticwebassets\\images\\gal6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\hakkimizda.jpg",
+      "PackagePath": "staticwebassets\\images\\hakkimizda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\hardalsoslumeyvelikışsalatası.jpg",
+      "PackagePath": "staticwebassets\\images\\hardalsoslumeyvelikışsalatası.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\hawaiian.jpg",
+      "PackagePath": "staticwebassets\\images\\hawaiian.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\hawaiianpizza.jpg",
+      "PackagePath": "staticwebassets\\images\\hawaiianpizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\karides.jpg",
+      "PackagePath": "staticwebassets\\images\\karides.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\kofteburger.jpg",
+      "PackagePath": "staticwebassets\\images\\kofteburger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\körilitavuklusalata.jpg",
+      "PackagePath": "staticwebassets\\images\\körilitavuklusalata.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\like-icon-58x25.png",
+      "PackagePath": "staticwebassets\\images\\like-icon-58x25.png"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\mantarlıpizza.jpg",
+      "PackagePath": "staticwebassets\\images\\mantarlıpizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\margherita.jpg",
+      "PackagePath": "staticwebassets\\images\\margherita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\margheritapizza.jpg",
+      "PackagePath": "staticwebassets\\images\\margheritapizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\mushroom.jpg",
+      "PackagePath": "staticwebassets\\images\\mushroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\mısırlımeksikasalatası.jpg",
+      "PackagePath": "staticwebassets\\images\\mısırlımeksikasalatası.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\oh.jpg",
+      "PackagePath": "staticwebassets\\images\\oh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\pesto.jpg",
+      "PackagePath": "staticwebassets\\images\\pesto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\pestososlurezenesalatası.jpg",
+      "PackagePath": "staticwebassets\\images\\pestososlurezenesalatası.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\pizza2.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\pizzasefi.jpg",
+      "PackagePath": "staticwebassets\\images\\pizzasefi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\rezenevesafranlıcioppino.jpg",
+      "PackagePath": "staticwebassets\\images\\rezenevesafranlıcioppino.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\salad.jpg",
+      "PackagePath": "staticwebassets\\images\\salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\seafood.jpg",
+      "PackagePath": "staticwebassets\\images\\seafood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\sef.jpg",
+      "PackagePath": "staticwebassets\\images\\sef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\slider1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\slider15.jpg",
+      "PackagePath": "staticwebassets\\images\\slider15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\slider17.jpg",
+      "PackagePath": "staticwebassets\\images\\slider17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\slider4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\sucuklupizza.jpg",
+      "PackagePath": "staticwebassets\\images\\sucuklupizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\tm1.jpg",
+      "PackagePath": "staticwebassets\\images\\tm1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\tm2.jpg",
+      "PackagePath": "staticwebassets\\images\\tm2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\tm3.jpg",
+      "PackagePath": "staticwebassets\\images\\tm3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\tm4.jpg",
+      "PackagePath": "staticwebassets\\images\\tm4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\tm5.jpg",
+      "PackagePath": "staticwebassets\\images\\tm5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\tm6.jpg",
+      "PackagePath": "staticwebassets\\images\\tm6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\tm7.jpg",
+      "PackagePath": "staticwebassets\\images\\tm7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\tropikalkokteyl.jpg",
+      "PackagePath": "staticwebassets\\images\\tropikalkokteyl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\ue1.jpg",
+      "PackagePath": "staticwebassets\\images\\ue1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\ue4.jpg",
+      "PackagePath": "staticwebassets\\images\\ue4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\uk2.jpg",
+      "PackagePath": "staticwebassets\\images\\uk2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\uk3.jpg",
+      "PackagePath": "staticwebassets\\images\\uk3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\user1.jpg",
+      "PackagePath": "staticwebassets\\images\\user1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\user2.jpg",
+      "PackagePath": "staticwebassets\\images\\user2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\user4.jpg",
+      "PackagePath": "staticwebassets\\images\\user4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\user5.jpg",
+      "PackagePath": "staticwebassets\\images\\user5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\wps.jpg",
+      "PackagePath": "staticwebassets\\images\\wps.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\yengeç.jpg",
+      "PackagePath": "staticwebassets\\images\\yengeç.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\images\\yonetici.jpg",
+      "PackagePath": "staticwebassets\\images\\yonetici.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\about-us.html",
+      "PackagePath": "staticwebassets\\themes\\about-us.html"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\ReCaptcha.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\ReCaptcha.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\RequestMethod.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\RequestMethod.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\RequestMethod\\Curl.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\RequestMethod\\Curl.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\RequestMethod\\CurlPost.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\RequestMethod\\CurlPost.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\RequestMethod\\Post.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\RequestMethod\\Post.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\RequestMethod\\Socket.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\RequestMethod\\Socket.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\RequestMethod\\SocketPost.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\RequestMethod\\SocketPost.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\RequestParameters.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\RequestParameters.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\Response.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\Response.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\ReCaptcha\\autoload.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\ReCaptcha\\autoload.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\phpmailer\\PHPMailerAutoload.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\phpmailer\\PHPMailerAutoload.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\phpmailer\\class.phpmailer.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\phpmailer\\class.phpmailer.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\phpmailer\\class.pop3.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\phpmailer\\class.pop3.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\phpmailer\\class.smtp.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\phpmailer\\class.smtp.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\rd-mailform.config.json",
+      "PackagePath": "staticwebassets\\themes\\bat\\rd-mailform.config.json"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\rd-mailform.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\rd-mailform.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\rd-mailform.tpl",
+      "PackagePath": "staticwebassets\\themes\\bat\\rd-mailform.tpl"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\rd-search.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\rd-search.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\bat\\reCaptcha.php",
+      "PackagePath": "staticwebassets\\themes\\bat\\reCaptcha.php"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\contacts.html",
+      "PackagePath": "staticwebassets\\themes\\contacts.html"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\themes\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\themes\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\css\\style.css",
+      "PackagePath": "staticwebassets\\themes\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\FernandoForero-Asfalto.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\FernandoForero-Asfalto.eot"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\FernandoForero-Asfalto.otf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\FernandoForero-Asfalto.otf"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\FernandoForero-Asfalto.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\FernandoForero-Asfalto.svg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\FernandoForero-Asfalto.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\FernandoForero-Asfalto.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\FernandoForero-Asfalto.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\FernandoForero-Asfalto.woff"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\FernandoForero-Asfalto.woff2",
+      "PackagePath": "staticwebassets\\themes\\fonts\\FernandoForero-Asfalto.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\Linearicons.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\Linearicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\Linearicons.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\Linearicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\Linearicons.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\Linearicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\Linearicons.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\Linearicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\fl-bigmug-line.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fl-bigmug-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\fl-bigmug-line.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fl-bigmug-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\fl-bigmug-line.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fl-bigmug-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\fl-bigmug-line.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fl-bigmug-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\lg.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\lg.eot"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\lg.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\lg.svg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\lg.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\lg.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\lg.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\lg.woff"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\themes\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\index.html",
+      "PackagePath": "staticwebassets\\themes\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\js\\core.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\js\\html5shiv.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\html5shiv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\js\\pointer-events.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\pointer-events.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\js\\script.js",
+      "PackagePath": "staticwebassets\\themes\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\CANSU\\Desktop\\grupsonrar\\Istka-FoodOrdering\\Istka-Group4-FoodOrdering-WebMvcUI\\wwwroot\\themes\\typography.html",
+      "PackagePath": "staticwebassets\\themes\\typography.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Istka-Group4-FoodOrdering-WebMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Istka-Group4-FoodOrdering-WebMvcUI.props",
+      "PackagePath": "build\\Istka-Group4-FoodOrdering-WebMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Istka-Group4-FoodOrdering-WebMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\Istka-Group4-FoodOrdering-WebMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Istka-Group4-FoodOrdering-WebMvcUI.props",
+      "PackagePath": "buildTransitive\\Istka-Group4-FoodOrdering-WebMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

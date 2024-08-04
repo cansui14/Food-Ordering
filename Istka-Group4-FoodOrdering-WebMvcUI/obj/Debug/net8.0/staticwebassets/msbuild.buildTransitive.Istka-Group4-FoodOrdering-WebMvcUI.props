@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Istka-Group4-FoodOrdering-WebMvcUI.props" />
+</Project>

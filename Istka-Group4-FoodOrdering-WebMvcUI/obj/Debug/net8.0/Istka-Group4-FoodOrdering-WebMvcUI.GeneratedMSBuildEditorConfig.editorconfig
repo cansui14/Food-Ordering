@@ -1,0 +1,183 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Istka_Group4_FoodOrdering_WebMvcUI
+build_property.RootNamespace = Istka_Group4_FoodOrdering_WebMvcUI
+build_property.ProjectDir = C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-WebMvcUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\CANSU\Desktop\grupsonrar\Istka-FoodOrdering\Istka-Group4-FoodOrdering-WebMvcUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Home/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Home/ShowSales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxTaG93U2FsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Home/SpecialProductInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxTcGVjaWFsUHJvZHVjdEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Home/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Home/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Payment/ConfirmAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxDb25maXJtQWRkcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Payment/ConfirmPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxDb25maXJtUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Payment/Invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Payment/MessageShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxNZXNzYWdlU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Sepet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VwZXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Sepet/MessageShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VwZXRcTWVzc2FnZVNob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Shared/Components/Categories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Shared/_LayoutFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Shared/_LayoutHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CANSU/Desktop/grupsonrar/Istka-FoodOrdering/Istka-Group4-FoodOrdering-WebMvcUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q5uc210xfp
